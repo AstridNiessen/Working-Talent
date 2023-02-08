@@ -39,6 +39,7 @@ public class Application {
 		Trainingsgroep t2 = new Trainingsgroep(14, "07-02-2023", "Working talent" , false);
 		t2.printStartingDate();
 
+		System.out.println("het werkt 2");
 				
 	}
 		
